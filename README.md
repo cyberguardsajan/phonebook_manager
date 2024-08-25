@@ -33,7 +33,7 @@ To use this phonebook application, follow these steps:
    Ensure you have Python 3.x installed on your computer. Run the script using the following command:
 
    ```bash
-   python number_guessing_game.py
+   phonebook_management_system.py
    ```
 
 ## Resources Used
@@ -47,4 +47,3 @@ Here are some resources I used to complete this project:
 
 # Thank You
 Thank you very much for checking out my project! Your help, suggestions, and error fixing are kindly appreciated.
-```
