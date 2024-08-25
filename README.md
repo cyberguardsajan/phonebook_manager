@@ -13,7 +13,38 @@ This is a basic phonebook application written in Python. It allows you to add, v
 
 To use this phonebook application, follow these steps:
 
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/your-username/phonebook_manager.git
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/cyberguardsajan/number-guessing-game.git
+   ```
+
+2. **Navigate to the Project Directory:**
+
+   Open a terminal or command prompt and change to the directory where the repository was cloned:
+
+   ```bash
    cd phonebook_management_system
+
+   ```
+
+3. **Run the Script:**
+
+   Ensure you have Python 3.x installed on your computer. Run the script using the following command:
+
+   ```bash
+   python number_guessing_game.py
+   ```
+
+## Resources Used
+Here are some resources I used to complete this project:
+
+1. **ASCII Art Generator**: I used this tool to create the ASCII art at the beginning of the script.
+   - [patorjk.com/software/taag](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something)
+
+2. **README Generator**: As a beginner, I used this tool to help structure and write this README.
+   - [readme.so](https://readme.so/)
+
+# Thank You
+Thank you very much for checking out my project! Your help, suggestions, and error fixing are kindly appreciated.
+```
