@@ -16,7 +16,7 @@ To use this phonebook application, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/cyberguardsajan/number-guessing-game.git
+   git clone https://github.com/cyberguardsajan/phonebook_manager
    ```
 
 2. **Navigate to the Project Directory:**
@@ -24,7 +24,7 @@ To use this phonebook application, follow these steps:
    Open a terminal or command prompt and change to the directory where the repository was cloned:
 
    ```bash
-   cd phonebook_management_system
+   cd phonebook_manager
 
    ```
 
